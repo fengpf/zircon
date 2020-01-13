@@ -1,0 +1,10 @@
+/github.com
+/gopkg.in
+/main
+/golang.org
+/zircon/lib/lib/lib/rpc/twirp/*.pb.go
+/zircon/lib/lib/lib/rpc/twirp/*.twirp.go
+/zircon/lib/lib/lib/apis/mocks/*.go
+/zircon/lib/lib/lib/chunkupdate/mocks/*.go
+/protobuf
+/protoc-*.zip
